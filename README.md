@@ -1,0 +1,2 @@
+- 👋 Eae, Eu sou L's
+- 🌱 Eu programmo em HTML, CSS e JS
